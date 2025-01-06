@@ -1,0 +1,513 @@
+{
+  "0": {
+    "action_type": "key_down",
+    "wait_time": 0.824,
+    "key": "vanster windows"
+  },
+  "1": {
+    "action_type": "key_down",
+    "wait_time": 2.011,
+    "key": "c"
+  },
+  "2": {
+    "action_type": "key_down",
+    "wait_time": 0.117,
+    "key": "h"
+  },
+  "3": {
+    "action_type": "button_down",
+    "wait_time": 2.162,
+    "x": 651,
+    "y": 367,
+    "button": "left"
+  },
+  "4": {
+    "action_type": "button_up",
+    "wait_time": 0.121,
+    "x": 651,
+    "y": 367,
+    "button": "left"
+  },
+  "5": {
+    "action_type": "button_down",
+    "wait_time": 1.712,
+    "x": 550,
+    "y": 736,
+    "button": "left"
+  },
+  "6": {
+    "action_type": "button_up",
+    "wait_time": 0.122,
+    "x": 550,
+    "y": 736,
+    "button": "left"
+  },
+  "7": {
+    "action_type": "button_down",
+    "wait_time": 2.037,
+    "x": 199,
+    "y": 145,
+    "button": "left"
+  },
+  "8": {
+    "action_type": "button_up",
+    "wait_time": 0.13,
+    "x": 199,
+    "y": 145,
+    "button": "left"
+  },
+  "9": {
+    "action_type": "button_down",
+    "wait_time": 5.367,
+    "x": 1871,
+    "y": 223,
+    "button": "left"
+  },
+  "10": {
+    "action_type": "button_up",
+    "wait_time": 0.12,
+    "x": 1871,
+    "y": 223,
+    "button": "left"
+  },
+  "11": {
+    "action_type": "button_down",
+    "wait_time": 3.885,
+    "x": 1836,
+    "y": 420,
+    "button": "left"
+  },
+  "12": {
+    "action_type": "button_up",
+    "wait_time": 0.135,
+    "x": 1836,
+    "y": 420,
+    "button": "left"
+  },
+  "13": {
+    "action_type": "button_down",
+    "wait_time": 3.325,
+    "x": 618,
+    "y": 474,
+    "button": "left"
+  },
+  "14": {
+    "action_type": "button_up",
+    "wait_time": 0.123,
+    "x": 618,
+    "y": 474,
+    "button": "left"
+  },
+  "15": {
+    "action_type": "button_down",
+    "wait_time": 1.714,
+    "x": 800,
+    "y": 794,
+    "button": "left"
+  },
+  "16": {
+    "action_type": "button_up",
+    "wait_time": 0.136,
+    "x": 800,
+    "y": 794,
+    "button": "left"
+  },
+  "17": {
+    "action_type": "button_down",
+    "wait_time": 1.615,
+    "x": 246,
+    "y": 405,
+    "button": "left"
+  },
+  "18": {
+    "action_type": "drag",
+    "wait_time": 0.152,
+    "x": 261,
+    "y": 407,
+    "button": "left"
+  },
+  "19": {
+    "action_type": "drag",
+    "wait_time": 0.017,
+    "x": 273,
+    "y": 409,
+    "button": "left"
+  },
+  "20": {
+    "action_type": "drag",
+    "wait_time": 0.018,
+    "x": 285,
+    "y": 411,
+    "button": "left"
+  },
+  "21": {
+    "action_type": "drag",
+    "wait_time": 0.015,
+    "x": 298,
+    "y": 412,
+    "button": "left"
+  },
+  "22": {
+    "action_type": "drag",
+    "wait_time": 0.017,
+    "x": 310,
+    "y": 414,
+    "button": "left"
+  },
+  "23": {
+    "action_type": "drag",
+    "wait_time": 0.018,
+    "x": 328,
+    "y": 414,
+    "button": "left"
+  },
+  "24": {
+    "action_type": "drag",
+    "wait_time": 0.015,
+    "x": 339,
+    "y": 416,
+    "button": "left"
+  },
+  "25": {
+    "action_type": "drag",
+    "wait_time": 0.017,
+    "x": 349,
+    "y": 418,
+    "button": "left"
+  },
+  "26": {
+    "action_type": "drag",
+    "wait_time": 0.017,
+    "x": 359,
+    "y": 418,
+    "button": "left"
+  },
+  "27": {
+    "action_type": "drag",
+    "wait_time": 0.015,
+    "x": 371,
+    "y": 418,
+    "button": "left"
+  },
+  "28": {
+    "action_type": "drag",
+    "wait_time": 0.016,
+    "x": 380,
+    "y": 418,
+    "button": "left"
+  },
+  "29": {
+    "action_type": "drag",
+    "wait_time": 0.02,
+    "x": 400,
+    "y": 418,
+    "button": "left"
+  },
+  "30": {
+    "action_type": "drag",
+    "wait_time": 0.017,
+    "x": 406,
+    "y": 418,
+    "button": "left"
+  },
+  "31": {
+    "action_type": "drag",
+    "wait_time": 0.016,
+    "x": 429,
+    "y": 418,
+    "button": "left"
+  },
+  "32": {
+    "action_type": "drag",
+    "wait_time": 0.019,
+    "x": 451,
+    "y": 417,
+    "button": "left"
+  },
+  "33": {
+    "action_type": "drag",
+    "wait_time": 0.015,
+    "x": 469,
+    "y": 417,
+    "button": "left"
+  },
+  "34": {
+    "action_type": "drag",
+    "wait_time": 0.016,
+    "x": 484,
+    "y": 415,
+    "button": "left"
+  },
+  "35": {
+    "action_type": "drag",
+    "wait_time": 0.017,
+    "x": 496,
+    "y": 415,
+    "button": "left"
+  },
+  "36": {
+    "action_type": "drag",
+    "wait_time": 0.015,
+    "x": 516,
+    "y": 413,
+    "button": "left"
+  },
+  "37": {
+    "action_type": "drag",
+    "wait_time": 0.017,
+    "x": 538,
+    "y": 411,
+    "button": "left"
+  },
+  "38": {
+    "action_type": "drag",
+    "wait_time": 0.018,
+    "x": 556,
+    "y": 411,
+    "button": "left"
+  },
+  "39": {
+    "action_type": "drag",
+    "wait_time": 0.016,
+    "x": 575,
+    "y": 411,
+    "button": "left"
+  },
+  "40": {
+    "action_type": "drag",
+    "wait_time": 0.016,
+    "x": 596,
+    "y": 411,
+    "button": "left"
+  },
+  "41": {
+    "action_type": "drag",
+    "wait_time": 0.019,
+    "x": 608,
+    "y": 411,
+    "button": "left"
+  },
+  "42": {
+    "action_type": "drag",
+    "wait_time": 0.098,
+    "x": 615,
+    "y": 411,
+    "button": "left"
+  },
+  "43": {
+    "action_type": "drag",
+    "wait_time": 0.034,
+    "x": 625,
+    "y": 408,
+    "button": "left"
+  },
+  "44": {
+    "action_type": "drag",
+    "wait_time": 0.015,
+    "x": 631,
+    "y": 406,
+    "button": "left"
+  },
+  "45": {
+    "action_type": "drag",
+    "wait_time": 0.036,
+    "x": 639,
+    "y": 403,
+    "button": "left"
+  },
+  "46": {
+    "action_type": "drag",
+    "wait_time": 0.049,
+    "x": 646,
+    "y": 401,
+    "button": "left"
+  },
+  "47": {
+    "action_type": "drag",
+    "wait_time": 0.045,
+    "x": 653,
+    "y": 399,
+    "button": "left"
+  },
+  "48": {
+    "action_type": "drag",
+    "wait_time": 0.039,
+    "x": 660,
+    "y": 399,
+    "button": "left"
+  },
+  "49": {
+    "action_type": "button_up",
+    "wait_time": 0.067,
+    "x": 660,
+    "y": 397,
+    "button": "left"
+  },
+  "50": {
+    "action_type": "button_down",
+    "wait_time": 0.777,
+    "x": 596,
+    "y": 402,
+    "button": "right"
+  },
+  "51": {
+    "action_type": "button_up",
+    "wait_time": 0.125,
+    "x": 596,
+    "y": 402,
+    "button": "right"
+  },
+  "52": {
+    "action_type": "button_down",
+    "wait_time": 1.12,
+    "x": 654,
+    "y": 433,
+    "button": "left"
+  },
+  "53": {
+    "action_type": "button_up",
+    "wait_time": 0.126,
+    "x": 655,
+    "y": 434,
+    "button": "left"
+  },
+  "54": {
+    "action_type": "key_down",
+    "wait_time": 2.756,
+    "key": "n"
+  },
+  "55": {
+    "action_type": "key_down",
+    "wait_time": 0.113,
+    "key": "o"
+  },
+  "56": {
+    "action_type": "key_down",
+    "wait_time": 0.144,
+    "key": "t"
+  },
+  "57": {
+    "action_type": "key_down",
+    "wait_time": 0.167,
+    "key": "e"
+  },
+  "58": {
+    "action_type": "button_down",
+    "wait_time": 2.604,
+    "x": 657,
+    "y": 363,
+    "button": "left"
+  },
+  "59": {
+    "action_type": "button_up",
+    "wait_time": 0.12,
+    "x": 657,
+    "y": 363,
+    "button": "left"
+  },
+  "60": {
+    "action_type": "button_down",
+    "wait_time": 1.659,
+    "x": 660,
+    "y": 343,
+    "button": "right"
+  },
+  "61": {
+    "action_type": "button_up",
+    "wait_time": 0.127,
+    "x": 660,
+    "y": 343,
+    "button": "right"
+  },
+  "62": {
+    "action_type": "button_down",
+    "wait_time": 1.022,
+    "x": 769,
+    "y": 559,
+    "button": "left"
+  },
+  "63": {
+    "action_type": "button_up",
+    "wait_time": 0.128,
+    "x": 770,
+    "y": 559,
+    "button": "left"
+  },
+  "64": {
+    "action_type": "button_down",
+    "wait_time": 1.248,
+    "x": 71,
+    "y": 94,
+    "button": "left"
+  },
+  "65": {
+    "action_type": "button_up",
+    "wait_time": 0.128,
+    "x": 71,
+    "y": 94,
+    "button": "left"
+  },
+  "66": {
+    "action_type": "button_down",
+    "wait_time": 1.779,
+    "x": 114,
+    "y": 349,
+    "button": "left"
+  },
+  "67": {
+    "action_type": "button_up",
+    "wait_time": 0.13,
+    "x": 114,
+    "y": 349,
+    "button": "left"
+  },
+  "68": {
+    "action_type": "button_down",
+    "wait_time": 2.363,
+    "x": 909,
+    "y": 665,
+    "button": "left"
+  },
+  "69": {
+    "action_type": "button_up",
+    "wait_time": 0.131,
+    "x": 909,
+    "y": 665,
+    "button": "left"
+  },
+  "70": {
+    "action_type": "button_down",
+    "wait_time": 5.509,
+    "x": 1050,
+    "y": 521,
+    "button": "left"
+  },
+  "71": {
+    "action_type": "button_up",
+    "wait_time": 0.142,
+    "x": 1050,
+    "y": 521,
+    "button": "left"
+  },
+  "72": {
+    "action_type": "button_down",
+    "wait_time": 1.868,
+    "x": 1891,
+    "y": 37,
+    "button": "left"
+  },
+  "73": {
+    "action_type": "button_up",
+    "wait_time": 0.125,
+    "x": 1891,
+    "y": 37,
+    "button": "left"
+  },
+  "74": {
+    "action_type": "button_down",
+    "wait_time": 1.03,
+    "x": 1511,
+    "y": 425,
+    "button": "left"
+  }
+}

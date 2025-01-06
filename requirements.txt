@@ -1,0 +1,10 @@
+pyautogui==0.9.54
+mouse==0.7.1
+keyboard==0.13.5
+pynput==1.7.6
+tkinter  # Usually comes with Python installation
+json  # Built-in with Python
+datetime  # Built-in with Python
+threading  # Built-in with Python
+time  # Built-in with Python
+os  # Built-in with Python
